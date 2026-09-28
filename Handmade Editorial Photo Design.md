@@ -350,3 +350,321 @@ Never jump more than one step away from the photo's own saturation unless asked.
 - Is there exactly one clear accent?
 - Are all color blocks clean and flat, even in the muted modes?
 - Does the line color suit the mode?
+
+
+## 13. ABSTRACT MEMORY FAMILY (M9) + ADAPTIVE SPLIT LAYOUT (L5)
+
+This section adds a third style family, a new medium (M9), a new layout (L5), and a new typography option (T5). Where it conflicts with earlier sections, this section wins for M9, L5, and T5.
+
+### 13.1 The third family
+ABSTRACT MEMORY (M9)
+  The photo stays faithful. Below it, an abstract visual memory is rebuilt from the photo's spatial relationships, not from its object contours, on a perfectly clean ivory panel with one poetic serif title. Quiet, distilled, contemplative.
+
+This is neither style transfer nor photo vectorization. The abstraction should read first as a minimal abstract composition, and only on second glance evoke this particular photo.
+
+### 13.2 M9 — ABSTRACT MEMORY MARKS
+
+Photo role:
+  The uploaded image is the only content source. Do not introduce any other image, scene, object, color, or symbol.
+
+Method (internal only; never output the analysis):
+  DECONSTRUCT → SELECTIVE PRESERVATION → ABSTRACT / DISTILL → RECONSTRUCT
+  1. Identify the 3–6 most important spatial facts in the photo.
+  2. Decide which information comes from subject mass, and which from structural axes, movement direction, repeated rhythm, intervals, occlusion, asymmetry, color hierarchy, or negative space.
+  3. Remove surface texture, perspective detail, background noise, and low-information ornament.
+  4. Rebuild the retained relationships with the fewest possible marks.
+
+Abstraction by subject (relationships first, contours discarded; keep only the minimum necessary recognizability):
+  - Ordinary scenes, landscapes, light, horizons, water: keep direction, density, intervals, hierarchy, movement, and color relationships. No complete object outlines.
+  - Landmark architecture or a distinctive form: 1–3 minimal identity cues only (outer contour, a key negative space, an eave line, a tapering tower mass, an arch, a spire, a layered rhythm). No windows, masonry, brackets, carvings, or rail patterns.
+  - Organic groups (balloons, canopies, clouds, lights): overlapping soft organic color masses showing density and rising, dispersing, or gathering. No interior patterns or realistic highlights.
+  - People and crowds: each person is one continuous, irregular short vertical ink mark or a lightly tapered block, with head, shoulders, and body as one form. No separate round heads, limbs, faces, or clothing. Rhythm comes from height, width, interval, tilt, and overlap. Never neat capsule shapes.
+  - Railings, roads, horizons, shores: one or two fine horizontal axes with a few irregular interruptions.
+  - Small representative objects (bells, lanterns, wind chimes): two or three planar marks, recognized through scale and position. No highlights, volume, internal structure, or realistic material.
+
+Mark system:
+  - One primary family, chosen from:
+      flat or slightly organic color blocks
+      soft circles or irregular masses
+      arcing or tapered strokes
+      continuous short bars or stacked color bands
+      simplified architectural masses
+  - At most two supporting families, chosen from:
+      fine lines or structural axes
+      short vertical bars, isolated dots, or tiny contours
+      restrained human ink marks
+      a small amount of repeated rhythm
+  - Every mark must correspond to a fact in the photo. Never add decoration, symmetry, patterns, colors, or objects just to look good.
+  - Avoid regular spacing: adjacent marks vary slightly in scale and position, with pauses, like an observed natural rhythm — never an infographic or a vector icon.
+
+Panel and motif:
+  - Background: perfectly even, continuous ivory, #F3F0E8 or a harmonious tone from the same family.
+  - Place the motif in the lower-middle, near the center, or at an asymmetric position supported by the photo's relationships.
+  - Default scale: motif width about 30–42% of the panel, height normally no more than 28–34% of the panel, with 65–80% clean empty space.
+  - Adaptations:
+      Slender horizons, bridges, roads, or horizontal crowds may span 45–68% of the width while staying low.
+      Tall landmarks and towers may grow taller but never fill the panel.
+      Compact organic groups stay gathered rather than scattered.
+  - Never shrink the motif into a generic small icon just to meet a percentage. Keep its internal scale, direction, intervals, occlusion, repetition, center of gravity, and asymmetry intact as one whole.
+
+Color:
+  - Only colors taken from the photo, desaturated and reduced in number.
+  - Roles: one dominant, one dark structural, one light or neutral, plus at most one or two small accents.
+  - Accents must be important colors truly present in the photo, used only on a few key marks.
+  - No neon, no unsupported complementary colors, no competing accents.
+  - Section 12 palette modes do not apply by default. If the user asks for one, allow only P4, P5, P6, or P7 at soft or muted chroma, and keep the color roles above.
+
+CLEAN mode (the panel background must contain none of these):
+  gradients, lighting variation, shadows, glow, vignettes, banding, seams, paper texture, grain, noise, fibers, watercolor underlayers, fog, stains, fading, haze, scan marks, pasted textures, compression artifacts.
+  Marks may keep slightly natural, handmade edges. Atmosphere comes only from whitespace, distance, pauses, asymmetry, scale contrast, limited marks, and a restrained palette.
+
+### 13.3 L5 — ADAPTIVE SPLIT (usable by every family; native for M9)
+- One vertical work: photo area on top, panel below. The canvas ratio follows the photo and the panel height — never forced to 1:1, 3:4, or equal halves.
+- Photo share of the final height:
+    Landscape or strongly horizontal photos : 38–52%
+    Vertical architecture, people, tall subjects : 55–68%
+    Near-square or balanced photos : 48–58%
+  These may shift by about ±8% for overall harmony.
+- Keep the photo's aspect ratio and a complete subject. Allow only proportional scaling or a slight crop. No outpainting, redrawing, retouching, or content change. Never crop aggressively to fit a ratio.
+- The join is direct, clean, flat, with no shadow. No torn-paper edges, frames, drop shadows, dimensional cards, tape, collage shadows, or mockup effects.
+- For other families, the panel background follows that family (paper for Quiet Paper, bright color fields for Playful Flat), and the illustration sizing follows that family's rules in L1.
+
+### 13.4 T5 — POETIC TITLE (default for M9; usable with any medium)
+
+Naming:
+  - One original English title, decided internally, 2–5 words.
+  - It must be faithful (tied to a real relationship or visual fact in the photo), clear (natural, never an awkward literal translation), and elegant (poetic resonance without melodrama or affected depth).
+  - Directions:
+      light or time entering a space
+      a relationship or dialogue between two subjects
+      something brief appearing, floating, receding, or pausing
+      a metaphor from the photo's colors, axes, or movement
+      an original compound word plus a short qualifier
+  - Avoid: travel-promo titles, place descriptions, photo jargon, empty words ("Memory", "Dream", "Moment"), and grand narratives unrelated to the photo.
+  - Optional subtitle of 3–7 words, only if it adds a new layer of meaning. Each title renders exactly once. Never show title options or explanations.
+
+Placement (inside the panel only):
+  - Lower-left aligned: when the motif sits right of center, spreads horizontally, or the weight leans right. Horizontal or vertical setting, with a 6–9% margin from the left and bottom edges.
+  - Bottom centered: when the motif is centered, the axis is clear, the architecture is symmetric, or there is a vertical echo. Align with the motif's axis without crowding it.
+  - Never in the photo area, inside the motif, at the lower right, or on the canvas edge.
+
+Type and color:
+  - Restrained editorial serif. A composed book serif for architecture and cities; a fine humanist serif for light, nature, and lyrical subjects. Subtitle in a smaller elegant italic serif.
+  - No commercial bold faces, sans-serif ad faces, cartoon or decorative fonts, or exaggerated handwriting.
+  - Color: a dark, restrained color from the photo or motif (deep blue-grey, dark green, wine red, deep purple, charcoal) — not pure black, and never the brightest accent. Subtitle in a lighter or less saturated tone of the same family.
+
+### 13.5 Compatibility additions (extend Section 6)
+  L1   : + M9. Fit the photo by proportional scaling and a slight crop only, with no outpainting; if that would require aggressive cropping, recommend L5 instead.
+  L3   : + M9. The ivory CLEAN panel alone is the full canvas, 4:5 by default, with the motif and title rules above.
+  L5   : M1 M2 M3 M5 M6 M7 M8 M9 (native for M9)
+  L1-G, L2, L4 : not compatible with M9.
+  Typography for M9: T5 (default), T0, or T1. If the user explicitly picks T2–T4, follow the user's choice and note in one line that it departs from the style's no-extra-text rule.
+
+### 13.6 Workflow additions (extend Sections 2 and 4)
+- If M9 is recommended or chosen, ask:
+    Q1 Style, Q2 Layout (mark L5 as recommended),
+    Q3 Typography (T5 / T0 / T1).
+- Auto: recommend M9 for architecture, landscapes, light, horizons, water, crowds, and calm or contemplative photos. For intimate portraits where the user will want to recognize the people, prefer M8 or Quiet Paper, because M9 reduces people to ink marks.
+- Shorthand: "M9 + L5 + T5". Every other medium can also use L5, e.g. "M8 + L5 + T4 + P2".
+
+### 13.7 Avoid (M9 only; extends Section 10)
+  - Any text beyond the final title and optional subtitle: no numbers, dates, serial numbers, locations, swatches, legends, signatures, logos, or watermarks
+  - Photo redrawing, scene reconstruction, generative outpainting, a filtered look, posterized photos, vector tracing, complete illustration
+  - Regularized infographics, generic icons, dense decoration
+  - Fabricated content or symmetry
+  - Non-uniform backgrounds
+  - Realistic small objects, excessive architectural detail
+  - Neatly capsule-shaped people
+  - Title-option lists
+
+### 13.8 Check (M9; extends Section 11)
+  - Does the panel read first as an abstract composition, and only second as this photo?
+  - Does every mark map to a real fact in the photo?
+  - One primary mark family and at most two supporting families?
+  - Is the panel perfectly clean and even?
+  - Is the photo unaltered and unextended?
+  - Is the title faithful, clear, and elegant, and is it the only text?
+
+## 14. TYPOGRAPHY SYSTEM & LANGUAGE
+(Adapted from the glyph-morphology and annotation methods of the Yingzao skill.)
+
+This section governs how every piece of text is written, set, and drawn, for typography options T1–T5. Each T option still decides what text appears and where (for example, T5 allows only a title and an optional subtitle, and T2 keeps its four field-note lines). Where this section conflicts with the font descriptions in Sections 8 and 13.4, this section wins on glyph form and language; the T option wins on content and placement.
+
+### 14.1 Language
+
+Modes: EN (English only) / CN (Chinese only) / BI (bilingual).
+
+How to ask:
+  - Ask the language inside Q3 as a suffix on the typography choice, e.g. "T4 · EN", "T5 · 中文", "T1 · 双语".
+  - Shorthand: "T5-CN", "T4-BI".
+
+Auto:
+  - EN by default.
+  - Recommend CN or BI when the subject is a Chinese place, building, food, or cultural object, or when the user writes in Chinese and the text will carry place or object names.
+
+BI rules:
+  - One language leads as the display title; the other takes a metadata role.
+  - The second language must do a different job (a term, an index, a place label, structural rhythm) — never a mechanical duplicate. "斗拱 / DOUGONG" is valid. Repeating the whole title and every keyword in both languages is not.
+  - Translations must read naturally, never as literal machine phrasing.
+  - Use pinyin only when it is correct and serves rhythm or indexing.
+
+CN rules:
+  - Use standard simplified characters. Use traditional characters only if the user asks or the photo's own signage requires it.
+  - Never alter components, add or drop strokes, invent variant characters, or turn decoration into strokes.
+  - Rare or complex characters never carry a giant display role.
+  - Vertical setting reads top to bottom.
+  - Keep Chinese text short. Image models render long, small Chinese text unreliably; fewer words are always better than fake glyphs.
+  - T5 in Chinese: a title of 2–6 characters, passing the same tests (faithful, clear, elegant). Avoid empty words such as 回忆, 梦, 时光, or 瞬间, and avoid travel-promotion phrasing.
+
+### 14.2 Facts and word budget
+
+Sources:
+  - Text may come only from what is visible in the photo (signage, objects), what the user provides, or what can be verified.
+  - Never guess names, dates, or history from appearance. If unsure, use a non-factual poetic word or leave it out.
+  - Distinguish original, restored, and rebuilt structures. Never compress "founded in the Ming dynasty, rebuilt recently" into "Ming tower".
+
+Budget (per poster):
+  - One display title plus at most 3–6 short units: a place label, one time relation, 1–3 object or form words, and one short note.
+  - Compress sentences into noun phrases.
+  - Addresses become "Street × Street" or "District · Direction".
+
+Priority:
+  name or place > key date or state > words tied to the visible subject > theme or mood words
+
+Cutting rules:
+  - If a word can only survive as an isolated tiny label in a corner, delete it instead of shrinking it.
+  - Never fill space with fake text, lorem ipsum, or pseudo-glyphs.
+
+### 14.3 Two text roles
+
+DISPLAY
+  The title or a structural big word. Use one glyph family per poster.
+
+METADATA
+  Place, date, number, keywords, subtitle, captions.
+  - Always LITERAL: conventional, legible letterforms, with no ligature play, missing strokes, variant characters, erosion, or texture damage.
+  - May use a second, calmer family or weight to build hierarchy.
+  - Small text never inherits the display type's exaggeration.
+
+Display glyph mode:
+  - LITERAL: a conventional typeface form. Safest for exact accuracy and for longer titles (more than 5 CN characters or more than 5 EN words).
+  - REINTERPRET: the default for short titles (2–5 CN characters or 1–4 EN words). Letterforms are redesigned from a glyph brief (14.4) inside the same bounds and reading order, while every character stays standard and legible.
+
+### 14.4 Glyph brief (internal; compile before generating)
+
+Never describe the display type only as "serif", "Song", "sans", "artistic", "premium", or "vintage". Mood words are fine, but they must be paired with visible form. Fill in internally:
+
+  Lineage      : one family from 14.5
+  Width/center : wide / square / narrow; high / middle / low center of gravity
+  Contrast     : thick-to-thin ratio (e.g. 1:2.5); any abrupt weight shifts
+  Terminals    : carved wedge / square cut / rounded / outward flare / dry brush / other
+  Counters     : open / square / round / octagonal / narrow; amount of inner white
+  Connection   : independent / shared stroke / bridged / partly joined — and where
+  Rhythm       : steady equal width / progressive density / slight stagger / bounce — and why it fits the photo
+  Lockup       : locked-wordmark / expressive-sequence
+  Surface      : clean / woodblock ink wear / stone rubbing / mineral pigment / worn signboard / flat print / other — matched to the medium
+  Photo link   : which geometry, material, or rhythm in the photo this form answers
+  Invariants   : exact text, standard components, reading order, bounds, shared axis
+
+Require at least five features visible in the final image, including the photo link. If the brief would still fit another poster after deleting the subject, it is too generic.
+
+Lockups:
+  - locked-wordmark: the default for calm, solemn, or architectural subjects and for 2–5 character Chinese titles. Each character sits in an equal slot with a common optical height and baseline; adjust strokes inside the slot only. No size jumps, stepping, or diagonal staircases.
+  - expressive-sequence: only when both the medium and the photo carry motion or play (e.g. M4, M7, or M8 with T4). Stagger, tilt, and scale shifts are allowed, but the word still reads as one unit.
+
+Per-character optical compensation (CN titles of 2–5 characters, in REINTERPRET mode):
+  For each character, note internally its optical problem in this title (e.g. naturally narrow, top-heavy, dense) and one concrete action (widen the outer dots, lower the center, open a counter, extend one horizontal), while keeping its standard components.
+
+### 14.5 Glyph families (one per poster)
+Chinese forms from Yingzao, each with a Latin counterpart (adaptation).
+
+A  CARVED WEDGE SONG (刊刻楔脚宋) / carved wedge serif
+   Form: thin horizontals and thick verticals at about 1:2.2–1:3. Straight verticals; horizontals with a slight hand waver. Short knife-cut wedge terminals, not rounded triangles. Squarish, tight counters. Slight woodblock nicks allowed.
+   Fits: books, timber, temples, old signboards, archival subjects.
+   Avoid: dirtying every stroke; erosion that drops strokes.
+
+B  SEAL INSCRIPTION (碑额篆刻) / inscriptional capitals
+   Form: square and compact, with slightly rounded turns, chisel-point terminals, and small stable counters. Best for 1–4 characters or a few short words.
+   Fits: gates, plaques, name titles, stamps.
+   Avoid: fake seals, variant characters, long text.
+
+C  ARCHITECTURAL MODULAR (构架几何) / modular geometric
+   Form: verticals like columns, horizontals like beams. Square-cut or joinery-like turns. Square, round, or octagonal counters. A repeated module taken from the subject. Steady weight, but not a generic heavy bold.
+   Fits: strong grids, arches, axes, patterned structures, bold flat graphics.
+   Avoid: pipe-diagram strokes; breaking components for the sake of geometry.
+
+D  WIDE CLERICAL (横张隶意) / wide extended
+   Form: low center and wide spread. Restrained outward flare on the horizontal ends. Short, stable verticals. Flat square counters. Equal height and width across the row.
+   Fits: city walls, bridges, long rooflines, horizons, horizontal panoramas.
+   Avoid: exaggerated calligraphic flourishes; never use for metadata.
+
+E  FOLK NAIVE (民艺拙笔) / naive hand-lettered
+   Form: abrupt weight changes, local exaggerated stretches, irregular edges, slight stagger, and at most one natural shared stroke. Still readable at thumbnail size.
+   Fits: folk crafts, handmade objects, playful travel, children, pets, food.
+   Avoid: solemn or archival subjects, long text. "Clumsy" never means misspelled or missing strokes.
+
+F  RATIONAL MING (理性明体) / rational high-contrast serif
+   Form: very thin but unbroken horizontals, clear verticals, sharp short terminals, a slightly narrow face, a stable center, open counters, and clean contours. Its character comes from proportion, not texture.
+   Fits: photography-led, archival, quiet interiors, contemporary editorial, poetic titles.
+   Avoid: hairlines over busy backgrounds; competing with a second expressive title.
+
+### 14.6 Choosing the family
+
+From the photo's axis:
+  - Hard light, sharp geometry, distant view → narrow, constructed forms (A, C, F); hard cuts, low-frequency blocks.
+  - Soft light, warm tones, close view → humanist, rounded forms (light F, E); gentle rhythm.
+  - Dense pattern or intricate timber → more open counters and simpler structure; never busy type on a busy image.
+  - Large whitespace, low saturation → high-contrast forms (F) or an offset long line.
+  - Night, neon, lanterns → stable weight; small text in a clean sans.
+
+From the medium (default pairings; the photo axis may override):
+  M1 → F (or light E)     M2 → F or A      M3 → A or B
+  M4 → E                  M5 → C or D      M6 → C or E
+  M7 → E                  M8 → E (C for bold graphic subjects)
+  M9 → F (A for architecture)
+
+From the T option:
+  T1 → F or A, locked-wordmark
+  T2 → no display title; all text literal typewriter or monospace (CN: a calm 仿宋-like face or a clean Song; numbers monospaced)
+  T3 → E, short, handwritten in feel but literal in legibility
+  T4 → E or C; expressive-sequence allowed
+  T5 → F (lyrical) or A (architectural), locked-wordmark; subtitle literal italic or light
+
+Metadata family: a calm humanist sans, a narrow gothic, a second Song or serif, or monospaced numbers — chosen to contrast with the display family, not to match it.
+
+### 14.7 Text and image interaction
+
+Default:
+  - Text lives in negative space and shares an axis with the image (left edge, center axis, or baseline).
+  - Avoid "two islands" — a centered subject and a centered title with no relation — unless the T option or layout prescribes it.
+  - T5 and the L1/L5 panels place titles in the panel by design; there, relate the title to the motif's axis or weight.
+
+Controlled interaction (allowed in L2, L3, L4, and with T4):
+  - A real contour may overlap part of the title.
+  - A stroke may share an edge with an eave or a horizon.
+  - A round form may sit inside a counter.
+  - Never hide the strokes that make a name identifiable, and never cover faces.
+
+Semantic decoration inside glyphs (e.g. one fruit replacing a dot):
+  - Only if it comes from the photo, does at least two jobs (e.g. theme and color bridge), is anchored to a stroke, and does not change the character's structure.
+  - At most one per poster.
+
+### 14.8 Prompt phrase
+Put one paragraph like this into the image instruction. Never paste the glyph brief itself.
+
+  "Display glyph design — render the exact title '__' [in Chinese / English] as a <locked-wordmark / expressive-sequence> with a common optical height and baseline. Use <family> with <width/center>, <contrast>, <terminals>, <counters>, <connection or rhythm>, and <surface>, derived from the photo's <geometry / material / rhythm>. Keep every character's standard structure legible. Keep all small text literal and conventional in <metadata family>."
+
+### 14.9 Typography check (extends Section 11)
+  - Is the text exactly correct, with no missing or invented strokes or letters?
+  - Does the display type show a specific form, not a default Song, serif, or bold?
+  - Is the metadata literal, calm, and in a different role from the display?
+  - Is there exactly one glyph family and one metadata family?
+  - Does every word earn its place (no tiny orphans, no fake text)?
+  - BI: does the second language do a different job?
+
+### 14.10 Feedback revisions
+If the user asks to fix only the text:
+  - Revise only the title or the named text.
+  - Keep the composition, subject, palette, materials, small text, and every other area unchanged.
+  - Apply the saved brief plus the requested change.
+  - Do not start a second round automatically.
